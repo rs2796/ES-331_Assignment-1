@@ -1,0 +1,11 @@
+Important points:
+1) These python libraries need to be installed for running the code:
+ 1) pandas
+ 2) numpy
+ 3) matplotlib
+ 4) scipy
+ 5) sklearn	
+2) Carefully change the path of iris data set while loading it.
+3) The csv file for the iris dataset is in the same folder.
+4) Simply run the python file.
+5) The output will the plot of projection matrix 
